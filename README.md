@@ -57,7 +57,7 @@
 
 #### Coding Time
 
-[![wakatime](https://wakatime.com/badge/user/6e3390ca-e2f0-47c3-887e-f33f6b969adb.svg)](https://wakatime.com/@6e3390ca-e2f0-47c3-887e-f33f6b969adb)
+[![wakatime](https://wakatime.com/badge/user/d13b3d8f-7678-48e8-9d38-12af06627e3c.svg)](https://wakatime.com/@d13b3d8f-7678-48e8-9d38-12af06627e3c)
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lonzieeee&layout=compact&theme=vision-friendly-dark" alt="Weekly Coding Time"/>
 
