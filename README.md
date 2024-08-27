@@ -1,7 +1,7 @@
 ---
 
 <div align="center">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Olooce&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Lonzieeee&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p> 
 
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave"/>
 
@@ -49,17 +49,17 @@
 
 <div align="center">
   
-<p>&nbsp;<img align="center" src="https://bad-apple-github-readme.vercel.app/api?username=Olooce&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=dark&title_color=00b3ff)" alt="rating" /></p> 
+<p>&nbsp;<img align="center" src="https://bad-apple-github-readme.vercel.app/api?username=Lonzieeee&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=dark&title_color=00b3ff)" alt="rating" /></p> 
 
 #### Contribution Stats
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Olooce&theme=dark&background=000000" alt="GitHub Streak"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Lonzieeee&theme=dark&background=000000" alt="GitHub Streak"/>
 
 #### Coding Time
 
 [![wakatime](https://wakatime.com/badge/user/6e3390ca-e2f0-47c3-887e-f33f6b969adb.svg)](https://wakatime.com/@6e3390ca-e2f0-47c3-887e-f33f6b969adb)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Olooce&layout=compact&theme=vision-friendly-dark" alt="Weekly Coding Time"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lonzieeee&layout=compact&theme=vision-friendly-dark" alt="Weekly Coding Time"/>
 
 </div>
 
