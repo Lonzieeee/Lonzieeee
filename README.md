@@ -9,7 +9,7 @@
 
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coding Gif"/>
 
-### **Plan. Prioritize. Order.**
+### **It always seem impossible until it is done**
 
 </div>
 
@@ -19,13 +19,11 @@
 
 <div align="left">
   <p align="left">
- I work mostly in Java, C, Python, Dart and JavaScript, excelling in both backend and frontend development designng customized solutions.
+    I work mostly in **Java**, **JavaScript**, **HTML**, and **CSS**, specializing in frontend development by designing customized solutions.
   </p>
   <ul align="left">
-    <li><strong>Backend:</strong> I design RESTful and GraphQL APIs, optimize database performance, and prioritize data security.</li>
-    <li><strong>Frontend:</strong> I build modern web applications with React and Next.js, creating dynamic user interfaces with reusable components and efficient rendering. I do my mobile and desktop applications in Dart using the Flutter Framework. </li>
-    <li><strong>Technical Writing:</strong> I transform technical concepts into user-friendly documentation, enhancing user experience and understanding.</li>
-    <li><strong>Interests:</strong> Data Science, Cybersecurity, FinTech, Web, Mobile & Desktop Development, and Cloud Computing.</li>
+    <li><strong>Frontend:</strong> I build modern web applications using **HTML**, **CSS**, and **JavaScript**, creating dynamic user interfaces with reusable components and efficient rendering.</li>
+    <li><strong>Interests:</strong> Web Development, Mobile Development, and Cybersecurity.</li>
     <li><strong>Collaboration:</strong> I'm open to collaborating on any project.</li>
     <li><strong>Connect with me:</strong> <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></li>
@@ -39,7 +37,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,python,c,dart,flutter,react,vite,nodejs,mysql,postgres,spring,bash,linux,git,github,go&perline="8" alt="Skills Icons"/>
+    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,vite,nodejs,mysql,postgres,spring,bash,linux,git,github,go&perline=8" alt="Skills Icons"/>
   </a>
 </div>
 
@@ -67,4 +65,3 @@
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
----
