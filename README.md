@@ -9,7 +9,7 @@
 
 <img src="https://i.pinimg.com/736x/ae/56/70/ae5670ecd0cea2a878b70c07150adc21.jpg" width="300" height="300" alt="Coding Gif"/>
 
-### **It always seem impossible until it is done**
+### **Stop dreaming Start doing**
 
 </div>
 
@@ -37,7 +37,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,vite,nodejs,mysql,git,github," alt="Skills Icons"/>
+    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,mysql,git,github," alt="Skills Icons"/>
   </a>
 </div>
 
