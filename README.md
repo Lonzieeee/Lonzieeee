@@ -37,7 +37,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,vite,nodejs,mysql,postgres,spring,bash,linux,git,github,go&perline=8" alt="Skills Icons"/>
+    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,vite,nodejs,mysql,git,github," alt="Skills Icons"/>
   </a>
 </div>
 
