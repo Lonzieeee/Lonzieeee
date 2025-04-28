@@ -7,7 +7,7 @@
 
 ### Thanks for taking time to visit and read my GitHub profile.
 
-<img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://i.pinimg.com/736x/ae/56/70/ae5670ecd0cea2a878b70c07150adc21.jpg)" width="600" height="300" alt="Coding Gif"/>
+<img src="https://i.pinimg.com/736x/ae/56/70/ae5670ecd0cea2a878b70c07150adc21.jpg" width="600" height="300" alt="Coding Gif"/>
 
 ### **It always seem impossible until it is done**
 
