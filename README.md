@@ -19,10 +19,10 @@
 
 <div align="left">
   <p align="left">
-    I work mostly in **Java**, **JavaScript**, **HTML**, and **CSS**, specializing in frontend development by designing customized solutions.
+    I work mostly in Java, JavaScript, HTML, and CSS, specializing in frontend development by designing customized solutions.
   </p>
   <ul align="left">
-    <li><strong>Frontend:</strong> I build modern web applications using **HTML**, **CSS**, and **JavaScript**, creating dynamic user interfaces with reusable components and efficient rendering.</li>
+    <li><strong>Frontend:</strong> I build modern web applications using HTML, CSS, and JavaScript, creating dynamic user interfaces with reusable components and efficient rendering.</li>
     <li><strong>Interests:</strong> Web Development, Mobile Development, and Cybersecurity.</li>
     <li><strong>Collaboration:</strong> I'm open to collaborating on any project.</li>
     <li><strong>Connect with me:</strong> <a href="">
