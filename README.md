@@ -21,15 +21,18 @@
 
 <div align="left">
   <p align="left">
-    I work mostly in Java, JavaScript, HTML, and CSS, specializing in frontend development by designing customized solutions.
+   I am a developer with strong interest in Frontend Web development and Mobile App development.
+    
   </p>
   <ul align="left">
-    <li><strong>Frontend:</strong> I build modern web applications using HTML, CSS, and JavaScript, creating dynamic user interfaces with reusable components and efficient rendering.</li>
+    <li><strong>🌐 Web Technologies: </strong> HTML, CSS, Javascript, React </li>
+    <li><strong>📱 Mobile Technologies: </strong> Flutter </li>
+    <li><strong>🎨 UI/UX: </strong> Figma </li>
     <li><strong>Interests:</strong> Web Development, Mobile Development, and Cybersecurity.</li>
-    <li><strong>Collaboration:</strong> I'm open to collaborating on any project.</li>
+    <li><strong>Collaboration:</strong> I'm open to projects collaboration</li>
     <li><strong>Connect with me:</strong> <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></li>
-    <li><strong>Location:</strong> Based in Kenya.</li>
+    <li><strong>Location:</strong>  Based in Kenya | I'm open to remote opportunities</li>
   </ul>
 </div>
 
@@ -39,7 +42,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,mysql,git,github," alt="Skills Icons"/>
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,mysql,git,github,figma,flutter" alt="Skills Icons"/>
   </a>
 </div>
 
