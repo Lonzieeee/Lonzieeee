@@ -3,7 +3,7 @@
 <div align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Lonzieeee&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p> 
 
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave"/>
+# Hey there, I'm Lorna 👋  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave"/>
 
 ### Thanks for taking time to visit and read my GitHub profile.
 
