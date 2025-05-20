@@ -3,9 +3,11 @@
 <div align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Lonzieeee&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p> 
 
-# Hey there, I'm Lorna 👋  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave"/>
+# Hey there, I'm Lorna  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave"/>
 
 ### Thanks for taking time to visit and read my GitHub profile.
+
+🎯Frontend Developer |  Mobile App Developer
 
 <img src="https://i.pinimg.com/736x/ae/56/70/ae5670ecd0cea2a878b70c07150adc21.jpg" width="300" height="300" alt="Coding Gif"/>
 
